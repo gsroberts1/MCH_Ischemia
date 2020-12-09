@@ -1,0 +1,399 @@
+
+
+  Journal of Computer Assisted Tomography  
+
+      Issue: Volume 20(2), March/April 1996, pp 262-268
+      Copyright: (C) Lippincott-Raven Publishers
+      Publication Type: [Abdominal And Pelvic Imaging]
+      ISSN: 0363-8715
+      Accession: 00004728-199603000-00017
+      Keywords: Arteries, mesenteric, Magnetic resonance angiography (MRA),
+Arteries, stenosis, Ischemia       
+
+ [Abdominal And Pelvic Imaging]
+
+  Systolically Gated 3D Phase Contrast MRA of Mesenteric Arteries in Suspected
+Mesenteric Ischemia  
+
+  Wasser, Martin N.; Geelkerken, Robert H.; Kouwenhoven, Marc; van Bockel, J.
+Hajo; Hermans, Jo; Kool, Leo J. Schultze; de Roos, Albert  
+
+    Author Information 
+
+  From the Departments of Diagnostic Radiology (M. N. Wasser, L. J. Schultze
+Kool, and A. de Roos), Vascular Surgery (R. H. Geelkerken and J. H. van Bockel),
+and Medical Statistics (J. Hermans), Leiden University Hospital, Leiden, and MR
+Clinical Science, Philips Medical Systems, Best (M. Kouwenhoven), the Netherlands.
+ 
+
+  Address correspondence and reprint requests to Dr. M. N. Wasser at Department
+of Diagnostic Radiology, Bldg. I, C2-S, Leiden University Hospital, Rijnsburgerweg
+10, 2333 AA, Leiden, the Netherlands.  
+
+----------------------------------------------
+
+    Outline
+
+    Abstract
+
+    MATERIALS AND METHODS
+
+    Patients
+
+    MRA
+
+    DSA
+
+    Data Analysis
+
+    RESULTS
+
+    Optimization of Parameters
+
+    Asymptomatic Patients
+
+    Symptomatic Patients
+
+    DISCUSSION
+
+    REFERENCES
+
+Abstract
+
+Objective: Our goal was to assess the value of MRA for detecting stenoses in the
+celiac (CA) and superior mesenteric (SMA) arteries in patients suspected of
+having chronic mesenteric ischemia, using an optimized systolically gated 3D
+phase contrast technique.
+
+: In an initial study in 24 patients who underwent conventional angiography of
+the abdominal vessels for different clinical indications, a 3D phase contrast
+MRA technique (3D-PCA) was evaluated and optimized to image the CAs and SMAs.
+Subsequently, a prospective study was performed to assess the value of
+systolically gated 3D-PCA in evaluation of the mesenteric arteries in 10
+patients with signs and symptoms of chronic mesenteric ischemia. Intraarterial
+digital subtraction angiography and surgical findings were used as the reference
+standard.
+
+: In the initial study, systolic gating appeared to be essential in imaging the
+SMA on 3D-PCA. In 10 patients suspected of mesenteric ischemia, systolically
+gated 3D-PCA identified significant proximal disease in the two mesenteric
+vessels in 4 patients. These patients underwent successful reconstruction of
+their stenotic vessels.
+
+Conclusion: Cardiac-gated MRA may become a useful tool in selection of patients
+suspected of having mesenteric ischemia who may benefit from surgery.
+
+----------------------------------------------
+
+The diagnosis of chronic mesenteric ischemia is difficult to make on clinical
+criteria alone (1,2). It is often considered only after exclusion of more common
+causes of chronic abdominal complaints, e.g., gastroesophageal reflux or
+gastric, pancreatic, and gallbladder disorders. The diagnosis is supported by
+the angiographic finding of significant stenoses in at least two of the three
+main mesenteric arteries, of which the celiac (CA) and superior mesenteric (SMA)
+artery are the most important (2). It has been found that these symptomatic
+patients with two or three vessel disease may find relief of their symptoms by
+surgical reconstruction of the obstructed vessels (2). Therefore, there is a
+need for a preferably noninvasive screening test to detect the presence of
+stenotic mesenteric arteries. Doppler ultrasound has been used for this purpose
+(3,4), but often the origins of the vessels cannot be seen. In one study, the
+failure rate to assess the patency of the mesenteric vessels was estimated to be
+in the order of 25% (5).
+
+Recently, it was found that MR measurement of difference of flow in the superior
+mesenteric vein and artery between fasting and postprandial states may have
+promise as a screening test in patients suspected of mesenteric ischemia (6,7).
+This method, however, does not provide anatomical information on the location of
+the vascular obstruction and the possibilities for surgical intervention. MR
+angiography (MRA) has been applied successfully in the detection of stenoses in
+a variety of vascular territories in the abdomen, e.g., renal arteries, vascular
+shunts, and portal vein. To our knowledge, no study has been performed to
+evaluate the potential of MRA in screening of patients with mesenteric ischemia.
+
+Accordingly, to assess the potential of 3D phase contrast MRA (3D-PCA) in
+determining the patency of the CA and SMA, we performed MRA in nonselected
+patients and in patients suspected of having chronic mesenteric ischemia. We
+first evaluated the effects of systolic gating to reduce pulsatility artifacts
+in the mesenteric vessels (8,9) and optimized the parameters in asymptomatic
+patients. Then we evaluated the value of systolically gated 3D-PCA in 15
+patients who underwent conventional abdominal angiography for various indications,
+but who were not suspected of having chronic mesenteric ischemia.
+
+Subsequently, we performed systolically gated 3D-PCA in 10 patients suspected of
+having mesenteric ischemia and compared the results with conventional angiography.
+Symptomatic patients with two vessel disease (significant stenosis of the CA and
+SMA) were considered eligible for surgical reconstruction of their mesenteric
+vessels.
+
+MATERIALS AND METHODS
+
+Patients
+
+Twenty-four patients (2 women, 22 men; average age 64 years, range 37-81 years),
+not suspected of having mesenteric ischemia, underwent intraarterial digital
+subtraction angiography (DSA) and 3D-PCA for various indications: 15 patients
+with aortic aneurysms, 6 with suspected stenosis/occlusion of the aorta or iliac
+arteries, and 3 with suspected renal artery stenosis. In the first nine
+patients, the technique of 3D-PCA was optimized. Then this optimized technique
+was evaluated in the other 15 patients.
+
+Subsequently, 10 patients (6 women, 4 men; average age 56 years, range 20-76
+years), who were clinically suspected of having chronic mesenteric ischemia,
+were examined by systolically gated 3D-PCA and intraarterial DSA. These
+patients, in whom all other diagnostic tests had been negative, had severe
+abdominal complaints, present for several years.
+
+All patients had given informed consent.
+
+MRA
+
+All MR examinations were performed on a 0.5 T Philips T5II scanner with a 15
+mT/m maximum gradient strength and a risetime of 10 mT in 0.6 ms. Standard
+software (release 3) was used. As a receiver coil, a body wraparound surface
+coil was used.
+
+First, a coronal gradient echo (FFE) scout view was obtained (TR/TE 22/7 ms,
+20[degrees] flip angle, slice thickness 5 mm).
+
+The MRA study was performed using 3D-PCA. The angiographic study was done with
+short TR (22 ms) and short TE (7 ms) values using partial (75%) echo sampling.
+Other scan parameters were as follows: flip angle 20[degrees], 2 NEX, slab
+thickness 6 cm reconstructed to 4-mm-thick slices with 2 mm overlap, 102 x 128
+acquisition matrix, field of view 26 cm, first-order flow compensation. Flow was
+measured in all directions with an encoding velocity of 40 cm/s. A caudal
+presaturation slab was applied to suppress venous flow in the superior
+mesenteric vein and inferior vena cava.
+
+To reduce pulsatility artifacts in the mesenteric arteries, the method of
+systolic gating (8,9) was applied. To determine the window for systolic imaging,
+the flow profile in the aorta was obtained with a retrospectively triggered 2D
+cine phase contrast velocity mapping technique (10). In the combination of
+cardiac gating with 3D-PCA, the different flow sensitivity directions are
+interleaved within every gate (2 k-lines/window). In cardiac gating, a steady
+state is maintained during the cardiac cycle; i.e., the RF pulses and the
+gradients continue, but acquisition of MR signal is limited to the user-defined
+gate. Duration of a systolically gated 3D-PCA study was 10-15 min, depending on
+the patient's heart rate. Duration of a nongated 3D-PCA study was 7 min.
+
+Postprocessing of the images was done using a maximum intensity projection (MIP)
+ray-tracing algorithm.
+
+DSA
+
+Intraarterial DSA was performed on a Philips 3000 Integris system. A pigtail
+catheter was positioned at the level of origin of the CA, and projections of the
+origins of the CA and SMA were made during injection of 30-40 ml contrast medium
+(Ioxaglate).
+
+Data Analysis
+
+The conventional angiograms and MRA examinations were scored by consensus
+reading by two sets of two observers who were unaware of the results of the
+other examination. For both angiograms and 3D-PCA, the CA and SMA were scored
+separately. The vessels were classified into the following categories: 0-50,
+50-69, and 70-99% stenosed and occluded. Grading of stenosis on the conventional
+angiograms was done according to lumen reduction at the site of stenosis
+compared with the normal, more distal part of the vessel. Grading of stenosis on
+PCA was done using a modification of the criteria described by Debatin et al.
+(11) for 3D-PCA of the renal arteries. Mere luminal narrowing was considered a
+mild stenosis (5 mm but with distal reconstitution of flow signal. A vessel was
+considered to be occluded when no flow signal was seen in the distal part of the
+artery.
+
+RESULTS
+
+Optimization of Parameters
+
+The technique of 3D-PCA was optimized in a group of nine asymptomatic patients.
+Sagittal and transverse MIP projections of normal CA and SMA arteries as
+obtained with systolically gated 3D-PCA are shown in Fig. 1. In the first four
+patients, we obtained both systolically gated and nongated 3D-PCA images. When
+the method of cardiac gating was not applied, significant signal loss was
+present in the aorta and the SMA (Fig. 2) in three of the four patients. We
+therefore applied systolic gating in all other patients.
+
+In three of the nine patients, severe ghosting artifacts were seen in the
+systolically gated 3D-PCA, resulting in inconclusive examinations of the CA in
+all these three patients and of the SMA in one patient. We observed that the
+ghosting artifacts occurred when the gate width was set at a value of           
+ 
+
+Asymptomatic Patients
+
+Subsequently we performed a prospective study in which we compared the results
+of optimized systolically gated 3D-PCA with conventional DSA in 15 patients not
+suspected of having mesenteric ischemia. The results are shown in Table 1 (for
+the CA) and Table 2 (for the SMA). MRA correctly identified three of five
+moderately severe stenoses in the mesenteric vessels. MRA scored one false-positive
+and one false-negative result in both the CA and the SMA in two patients with an
+aortic aneurysm. In these patients, a loss of flow signal was seen in the
+mesenteric vessels, presumably due to a combination of turbulent flow in the
+aneurysm and systolic expansion of the aneurysm with translational motion of
+adjacent mesenteric vessels. Two patients (MRA identified one of them) had
+significant disease in both CA and SMA, although they had no signs or symptoms
+of chronic mesenteric ischemia.
+
+Symptomatic Patients
+
+The results of systolically gated 3D-PCA in detecting significant disease in the
+mesenteric vessels in the second group of patients, i.e., patients suspected of
+having chronic mesenteric ischemia, are shown in Tables 3 and 4. None of the
+patients had an aortic aneurysm. Six of the eight significant stenoses were
+visualized by MRA. MRA correctly identified three patients with significant
+stenosis in the proximal part of both the CA and the SMA. In one other patient,
+both DSA and MRA showed an aneurysm immediately after the origin of the CA. The
+stenosis at the origin of the CA in this patient as detected by DSA was not
+visualized at MRA. This patient also had a significant stenosis in the SMA at
+MRA, but not at DSA. In one patient, MRA showed an abrupt flow signal loss
+proximal in the CA, which originated from the aorta at an acute angle. This
+signal loss was scored as a severe stenosis. DSA in this patient was normal. In
+one patient suspected of chronic mesenteric vascular disease, DSA showed an
+impression of the CA by a diaphragmatic crus. This impression, however, was
+scored as a severe stenosis by the observers. Although additional Doppler
+ultrasound showed normal velocities in the CA, the normal finding at MRA was
+scored as a false-negative result. In Fig. 5, an example of mild stenosis in the
+CA and SMA is shown. Figure 6 depicts an occlusion of the CA and severe stenosis
+in the SMA, visualized on both DSA and MRA.
+
+The three patients with significant disease in both mesenteric vessels, and the
+symptomatic patient with an aneurysm of the CA and moderate stenosis of the SMA,
+underwent surgical reconstruction and are now all symptom-free for 4-12 months
+after operation.
+
+DISCUSSION
+
+The application of MRA in the abdomen is under active investigation. In this
+study we explored the potential of 3D-PCA for evaluating disease in the CA and
+SMA in patients suspected of having chronic mesenteric ischemia. Since stenoses
+are mostly due to atherosclerosis and occur often at the origins of the
+mesenteric vessels (2,12,13), only the proximal parts of the arteries were
+studied.
+
+Initially, we optimized and evaluated the technique in asymptomatic patients. A
+problem we encountered with standard 3D-PCA was that the SMA was often not
+detected. This may be caused by the triphasic flow pattern that is normally
+present in the SMA. Whereas the CA has a low resistance flow profile (4,14) with
+continuous forward flow (as in the renal artery), the flow profile in the SMA
+has a high resistance pattern (under fasting conditions) with early diastolic
+flow reversal and slow late diastolic flow (15,16). MRA of vessels with highly
+pulsatile blood flow is frequently hindered by shift artifacts (ghosting),
+resulting in reduced intravascular signal and increased noise in the surrounding
+tissues. Additionally, during systole, the high inflow of fresh spins ensures
+high signal intensity. During diastole, however, the less efficient refreshment
+of spins leads to considerable lower signal intensity. The resulting image may
+therefore show signal intensity loss in vessels with pulsatile and retrograde
+flow. By limiting data acquisition to the systolic phase of the cardiac cycle,
+maximum signal intensity of fresh inflowing spins is obtained and angiographic
+images with sharp vessel edges, improved contrast, and few pulsatility artifacts
+can be obtained (8,9). Since pulsatile, retrograde flow is present not only in
+the aorta but also in the SMA under normal conditions, systolic gating is
+essential for imaging of the SMA. The CA, in contrast, has a continuous forward
+flow pattern and is therefore also visible on nongated images. The desired gate
+delay and gate width in gated PCA can be determined from aortic flow measurements.
+In systolic gating we found a minimum gate delay of 100 ms (due to hardware
+conditions) and a minimum gate width of 200 ms (minimum time required to encode
+the different flow sensitivity directions). A shorter gate width resulted in
+ghosting artifacts due to insufficient data acquisition during the systolic
+phase of the cardiac cycle. Due to these restrictions, the optimal parameters
+cannot be chosen in every patient.
+
+We first compared the results of systolically gated 3D-PCA and DSA in a group of
+15 nonselected patients. Moderately severe stenosis was found in five mesenteric
+vessels. MRA showed three of these stenoses correctly. False-positive results
+were obtained with MRA in two vessels. Both false-positive and false-negative
+results occurred in patients with aortic aneurysms. Two asymptomatic patients
+had significant stenosis of both the CA and the SMA. Apparently, these patients
+had developed adequate collateral pathways to ensure bowel vascularization.
+Since we only examined the proximal parts of the CA and SMA and did not image
+the inferior mesenteric artery, these collaterals were not detected.
+
+In a selected group of 10 patients suspected of having chronic mesenteric
+ischemia, two mesenteric vessels were occluded. We found a significant stenosis
+in six of the mesenteric vessels at DSA. MRA identified four of these stenoses
+correctly. A stenosis proximal to an aneurysm of the CA was not visible at MRA.
+Another stenosis in the CA at DSA, not seen at MRA, may, in retrospect, have
+been caused by an external compression of the CA by a diaphragmatic crus at DSA
+during deep inspiration, since Doppler examination of the CA was also normal. A
+false-positive result of MRA was seen in a patient with a CA branching off the
+aorta at an acute angle. This patient showed signal loss proximal in the CA,
+probably due to turbulent flow. Systolically gated 3D-PCA identified significant
+disease in both the CA and the SMA in four symptomatic patients (one with an
+aneurysm of the CA). These four patients underwent successful surgical
+reconstruction of their mesenteric vessels. Systolically gated 3D-PCA may
+therefore become a useful tool in selection of patients with mesenteric ischemia
+who may benefit from surgery.
+
+Up to now, the diagnosis of chronic mesenteric vascular syndrome is made only
+retrospectively, if the symptoms disappear after reconstructive surgery.
+Stenoses or occlusions in the mesenteric arteries are prerequisites to
+confirming the diagnosis, but do not prove the diagnosis of chronic mesenteric
+ischemia. Possibly, combining the method of systolically gated 3D-PCA with the
+recently described method of MR measurements of difference of flow in the
+superior mesenteric vein and artery between fasting and postprandial states
+(6,7) may further increase the screening potential of MRI in patients suspected
+of having chronic mesenteric vascular disease.
+
+REFERENCES
+
+1. Rogers DM, Thompson JE, Garret WV, Talkington CM, Patman RD. Mesenteric
+vascular problems. Ann Surg 1982;195:554-65. Ovid Full Text 
+
+2. Geelkerken RH, Bockel van JH, Roos de WK, Hermans J, Terpstra JL. Chronic
+mesenteric vascular syndrome; the long results of reconstructive surgery. Arch
+Surg 1991;126:1101-6. 
+
+3. Koslin DB, Mullogan SA, Berland LL. Duplex assessment of the splanchnic
+vasculature. Semin Ultrasound CT MR 1992;13:34-9. 
+
+4. Jager KA, Fortner GS, Thiele BL, Strandness DE. Noninvasive diagnosis of
+intestinal angina. JCU 1984;12:588-91. 
+
+5. Roobottom CA, Dubbins PA. Significant disease of the celiac and superior
+mesenteric arteries in asymptomatic patients: predictive value of Doppler
+sonography. AJR 1993;161:985-8. 
+
+6. Burkart DJ, Johnson CD, Reading CC, Ehman RL. MR measurements of mesenteric
+venous flow: prospective evaluation in healthy volunteers and patients with
+suspected chronic mesenteric ischemia. Radiology 1995;194:801-6. 
+
+7. Li KCP, Hopkins KL, Dalman RL, Song CK. Simultaneous measurement of flow in
+the superior mesenteric vein and artery with cine phase-contrast MR imaging
+value in diagnosis of chronic mesenteric ischemia. Radiology 1995;194:327-30. 
+
+8. Graaf de RG, Groen JP. MR angiography with pulsatile flow. Magn Reson Imag
+1992;10:25-34. 
+
+9. Selby K, Saloner D, Anderson C, Chien D, Lee R. MR angiography with a cardiac
+phase specific window. J Magn Res Imag 1992;2:637-43. 
+
+10. Nayler GL, Firmin DN, Longmore DB. Blood flow imaging by cine magnetic
+resonance. J Comput Assist Tomogr 1986;10:715-22. Ovid Full Text 
+
+11. Debatin JF, Spritzer CE, Grist TM, et al. Imaging of the renal arteries:
+value of MR angiography. AJR 1991;157:981-90. 
+
+12. Crawford ES, Morris GC, Myhre HO, Roehm JOF. Celiac axis, superior
+mesenteric artery and inferior mesenteric artery occlusion: surgical considerations.
+Surgery 1977;82:856-66. 
+
+13. Rogers DM, Thompson JE, Garret WV, Talkington CM, Patman RD. Mesenteric
+vascular problems. Ann Surg 1982;195:554-65. Ovid Full Text 
+
+14. Nichols SC, Kohler TR, Martin RL, Strandness DE. Use of hemodynamic
+parameters in the diagnosis of mesenteric insufficiency. J Vasc Surg 1986;3:507-10.
+
+
+15. Lewis BD, James EM. Current applications of duplex and color Doppler
+ultrasound imaging. Mayo Clin Proc 1989;64:1158-69. 
+
+16. van Oostayen JA, Wasser MNJM, Hogezand RA van, Griffioen G, Roos A de.
+Activity of Crohn disease assessed by measurement of superior mesenteric artery
+flow with Doppler US. Radiology 1994;193:551-4. 
+
+Index Terms: Arteries, mesenteric; Magnetic resonance angiography (MRA);
+Arteries, stenosis; Ischemia
+
+----------------------------------------------
+
+
+
